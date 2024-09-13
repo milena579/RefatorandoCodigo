@@ -1,6 +1,5 @@
 # https://github.com/Andredev-dias/Base-de-Algoritmos-em-C_v2/blob/master/listacondicional3.c
 
-
 def calcularSalario():
     salarioMinimo = 1412
     salarioBruto = float(input('Informe seu salario BRUTO: '))
