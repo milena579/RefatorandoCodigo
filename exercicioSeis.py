@@ -1,3 +1,5 @@
+#https://github.com/Andredev-dias/Base-de-algoritmos-em-C-v3/blob/master/busca1.c
+
 def procuraNum():
     val = [10]
     
