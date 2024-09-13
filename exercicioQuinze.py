@@ -62,4 +62,4 @@ def impostoDeRenda():
     print(f'INSS anual: R$ {inssAnual}')
     print(f'IR anual: R$ {iranual}')
     
-    
+impostoDeRenda()
