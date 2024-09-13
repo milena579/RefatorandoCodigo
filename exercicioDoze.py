@@ -1,3 +1,5 @@
+#https://github.com/Andredev-dias/Base-de-algoritmos-em-C-v3/blob/master/trab_rec.c
+
 def somaSempre(valorUm, valorDois):
     if(valorDois == 1):
         return valorUm
