@@ -1,3 +1,4 @@
+#https://github.com/Andredev-dias/Base-de-algoritmos-em-C-v3/blob/master/EX_04.c
 def conta(num):
     if( num <= 100):
         print(f'{num}')
