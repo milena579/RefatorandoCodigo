@@ -1,3 +1,4 @@
+#https://github.com/Andredev-dias/Base-de-Algoritmos-em-C/blob/master/exer6vetor.c
 import numpy as np
 
 num = []
